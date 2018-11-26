@@ -17,4 +17,4 @@ I am a `Ph.D candidate` at [Stony Brook University](https://www.cs.stonybrook.ed
 
 My research interests are in the domain of `network security`, `privacy`, and `Internet measurement`. Recently, I have focused on detecting and characterizing BGP anomalies (e.g., BGP Hijacks and Interceptions). The second stream of my recent work is identifying and analyzing global online information controls (e.g., DNS manipulation.) with measurement platform ([ICLab](www.iclab.org){:target="\_black"}).
 
-Before joining the Calipr, I have worked at SUNY Korea (a remote campus of Stony Brook) on Smart Grid Security. 
+Before joining the Calipr, I have worked at SUNY Korea (a remote campus of Stony Brook) on `smart grid security`. 
